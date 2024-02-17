@@ -2,7 +2,7 @@
 
 # All my security review reports
 
-[Link to my reports list]()
+[Link to my reports list](https://github.com/Jer-B/security_review_reports_list)
 
 # PasswordStore
 
